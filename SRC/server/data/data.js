@@ -1,0 +1,32 @@
+module.exports = [
+  {
+    uuid: 1,
+    username: 'human001',
+    password: '1234',
+    dateOfBirth: { year: '2022', month: '07', day: '07' },
+    gender: 'female',
+    email: 'human_001@gmail.com',
+    phone: ['+82', '010-1234-5678'],
+    introduction: 'ㅎㅇ',
+  },
+  {
+    uuid: 2,
+    username: 'human002',
+    password: '1234',
+    dateOfBirth: { year: '1994', month: '10', day: '04' },
+    gender: 'female',
+    email: 'human_001@gmail.com',
+    phone: ['+82', '010-8941-4891'],
+    introduction: 'ㅎㅇ',
+  },
+  {
+    uuid: 3,
+    username: 'human003',
+    password: '1234',
+    dateOfBirth: { year: '2008', month: '04', day: '18' },
+    gender: 'female',
+    email: 'human_001@gmail.com',
+    phone: ['+82', '010-1891-1781'],
+    introduction: 'ㅎㅇ',
+  },
+];
